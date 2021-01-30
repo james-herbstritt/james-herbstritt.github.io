@@ -6,8 +6,6 @@ url:                 https://james-herbstritt.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-  github:
-    repo: https://github.com/james-herbstritt/james-herbstritt.github.io
 
 # About/contact
 author:
